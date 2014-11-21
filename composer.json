@@ -1,0 +1,8 @@
+{
+    "name": "horisen/cms-auth-pub-mod",
+    "description": "Horisen CMS auth public module",
+    "type": "horisen-cms_pub_mod",
+    "extra": {
+        "installer-name": "auth"
+    }
+}
